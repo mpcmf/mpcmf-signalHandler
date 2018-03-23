@@ -1,0 +1,16 @@
+{
+  "name": "mpcmf/mpcmf-signalHandler",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitriy Emelyanov",
+      "email": "gilberg.vrn@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mpcmf\\system\\": "src/system"
+    }
+  }
+}
